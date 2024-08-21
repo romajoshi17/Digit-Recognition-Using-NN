@@ -1,2 +1,2 @@
 # Digit-Recognition-Using-NN
-A Neural Network model for classifying handwritten digits from 0-9
+This project focuses on building a Neural Network model for classifying handwritten digits (0-9). The dataset used in this project is the MNIST dataset. 
